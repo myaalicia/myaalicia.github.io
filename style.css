@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+  font-family: 'Lobster', cursive;
+  background-color: pink;
+  font-size: 40px;
+
+}
+
+h1 {background-color: pink;}
+
+/* PAGE HEADER */
+
+header {
+  color: blue;
+}
+h2 {
+  color: yellow;
+  {
+    .Mya{
+      color: blue;
+    background: pink;
+
+  background: lightpink;
+  border: 2px lightblue;
+      }
+  header,
+section,
+footer {
+  padding: 100px 150px;
+
+  body {
+  margin: 0;
+  padding: 0;
+
+  h1, h2 {
+  margin: 0; /* removes default space */
+}
+}
